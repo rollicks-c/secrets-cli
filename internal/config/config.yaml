@@ -1,0 +1,7 @@
+name: default
+backends:
+  vault:
+    address: TBD
+  bitwarden:
+    dataDir: TBD
+aliases:
